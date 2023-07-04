@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+The Movie DB React App
+Este projeto é um aplicativo React que utiliza a API The Movie DB para exibir informações sobre filmes e programas de TV.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Funcionalidades
+Pesquisa de filmes e programas de TV.
+Exibição de detalhes de um filme ou programa específico.
+Visualização de elenco, avaliações e outras informações relacionadas.
+Lista de filmes populares e em cartaz.
 
-## Available Scripts
+Tecnologias Utilizadas
+React
+React Router
 
-In the project directory, you can run:
+Como executar o projeto
+Certifique-se de ter o Node.js instalado (https://nodejs.org).
+Clone este repositório: git clone <URL_DO_REPOSITÓRIO>.
+Navegue até o diretório do projeto: cd movie-db-react-app.
 
-### `npm start`
+Instale as dependências: npm install.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Obtenha uma API key do The Movie DB criando uma conta em [https://www.themoviedb.org/].
+Crie um arquivo .env na raiz do projeto e adicione a seguinte variável de ambiente: REACT_APP_API_KEY=SUA_API_KEY_AQUI.
+Inicie o servidor de desenvolvimento: npm start.
+Abra o aplicativo no navegador: http://localhost:3000.
+Sobre a The Movie DB API
+A The Movie DB API é uma API popular para obter informações sobre filmes e programas de TV. Ela fornece dados como detalhes de filmes, elenco, avaliações, trailers e muito mais. Para utilizar a API, é necessário se cadastrar no site oficial para obter uma API key. Você pode se cadastrar em [https://www.themoviedb.org/account/signup] e obter sua chave de API. Certifique-se de guardar sua chave de API com segurança e não compartilhá-la publicamente.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Lembre-se de substituir <URL_DO_REPOSITÓRIO> pela URL do seu repositório no GitHub, tanto para o projeto FakeStore quanto para o projeto The Movie DB. E, no segundo exemplo, substitua SUA_API_KEY_AQUI pela sua API key da The Movie DB.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Esses são apenas exemplos básicos de README.md. Sinta-se à vontade para adicionar mais informações sobre o projeto, instruções detalhadas, capturas de tela, etc., de acordo com as necessidades do seu projeto.
