@@ -21,7 +21,7 @@ useEffect(()=> {
     
     return (
         <Container>
-            <h1>The top 20 most-watched movies</h1>
+            <h1>20 Filmes mais Populares</h1>
         
             <MovieList>
 
