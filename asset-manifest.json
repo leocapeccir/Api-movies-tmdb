@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Api-movies-tmdb-react/static/css/main.1e781cb4.css",
+    "main.js": "/Api-movies-tmdb-react/static/js/main.cf24bf97.js",
+    "index.html": "/Api-movies-tmdb-react/index.html",
+    "main.1e781cb4.css.map": "/Api-movies-tmdb-react/static/css/main.1e781cb4.css.map",
+    "main.cf24bf97.js.map": "/Api-movies-tmdb-react/static/js/main.cf24bf97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e781cb4.css",
+    "static/js/main.cf24bf97.js"
+  ]
+}
